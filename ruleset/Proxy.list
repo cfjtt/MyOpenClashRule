@@ -1,0 +1,6 @@
+#规则语法
+#DOMAIN,网址
+#DOMAIN-SUFFIX,网址
+#IP-CIDR,0.0.0.0/8,no-resolve
+#91
+DOMAIN,a.91selfie.com
