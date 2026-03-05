@@ -1,6 +1,9 @@
+#自定义代理规则
+
+#91规则
 DOMAIN,a.91selfie.com
 DOMAIN,sp2026.dev
-DOMAIN,la.btc620.com
+DOMAIN,vthumb.killcovid2021.com
 DOMAIN,poweredby.jads.co
 DOMAIN,go.rmhfrtnd.com
-DOMAIN,vthumb.killcovid2021.com
+DOMAIN,la.btc620.com
